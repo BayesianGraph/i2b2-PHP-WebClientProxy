@@ -15,6 +15,6 @@
     <IncludeDebugInformation>false</IncludeDebugInformation>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="index.php" />
+    <Compile Include="WebClientProxy.php" />
   </ItemGroup>
 </Project>
